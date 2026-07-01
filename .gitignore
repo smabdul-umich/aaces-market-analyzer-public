@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+
+# Confidential / licensed inputs (never commit)
+sample-io/
+**/portfolio model/
+*Network*.csv
+!data/examples/synthetic_network.csv
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors (optional — remove if you want to share workspace settings)
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+
+# Solver logs (if you add verbose logging to files later)
+*.log
+
+# OS / tooling
+Thumbs.db

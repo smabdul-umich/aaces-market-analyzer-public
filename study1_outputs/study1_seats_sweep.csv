@@ -1,0 +1,10 @@
+delta_from_base,swept_value,concept_orders,B737Max8_orders,chosen_aircraft,total_profit,concept_penetration,weighted_casm,status
+-20,169,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+-15,174,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+-10,179,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+-5,184,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+0,189,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+5,194,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+10,199,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+15,204,0,34,B737Max8,147485091.5,0.0,0.12,optimal
+20,209,0,34,B737Max8,147485091.5,0.0,0.12,optimal
